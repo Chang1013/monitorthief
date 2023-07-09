@@ -1,0 +1,15 @@
+window_size = 50
+threshold = 60
+
+# Parameters
+learning_rate = 0.0001
+training_iters = 10
+batch_size = 100
+display_step = 10
+
+# Network Parameters
+n_input = 2004 # WiFi activity data input (img shape: 2004*window_size)
+n_hidden = 100 
+n_classes = 2 # WiFi activity total classes
+
+fold=4
