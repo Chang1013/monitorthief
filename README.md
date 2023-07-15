@@ -1,12 +1,13 @@
 # monitorthief
 Monitor whether the thief is near or far away the Receiver<p>
 * number of classes: 2
-* classes: walk (TX to RX and RX to TX) , empty
+* classes: walk (TX to RX and RX to TX) , No-person (empty)
 
 ## Experimental Environment
 * Two PC with Intel AX200 NIC (2Rx X 2Tx)
 * Ubuntu 20.04
-* collect the 5.18 GHz to 5.2 GHz , 802.11ac VHT PHY
+* collect the 5.18 GHz to 5.2 GHz , 802.11ax HE PHY
+* 12.5 seconds for each action
   
 ## CSI tool
 PicoScenes <p>
