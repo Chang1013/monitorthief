@@ -8,6 +8,10 @@ Monitor whether the thief is near or far away the Receiver<p>
 * Ubuntu 20.04
 * collect the 5.18 GHz to 5.2 GHz , 802.11ax HE PHY
 * 12.5 seconds for each action
+
+## Explanation of Terms
+* TR stands for the direction from TX to RX.
+* RT stands for the direction from RX to TX.
   
 ## CSI tool
 PicoScenes <p>
