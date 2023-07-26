@@ -1,7 +1,7 @@
 # monitorthief
 Collect the channel state information (CSI) and analyze the wifi6 signal waveform to  monitor whether the thief is near or far away the Receiver<p>
-* number of classes: 2
-* classes: walk (TX to RX and RX to TX) , No-person (empty)
+* number of classes: 3
+* classes: TR , RT, No-person (empty)
 
 ## Experimental Environment
 * Two PC with Intel AX200 NIC (2Rx X 2Tx)
